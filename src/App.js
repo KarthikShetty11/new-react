@@ -25,14 +25,31 @@
 // export default App;
 
 
+// import Card from "./Card";
 import Content from "./Content";
+// import Profile from "./Profile";
+
 
 const App = ()=>{
   return(
-    <div>
       <Content />
-    </div>
   );
 };
 
 export default App;
+
+
+// function App() {
+  
+//   const pull_data = (data) => {
+//     console.log(data); // LOGS DATA FROM CHILD (My name is Dean Winchester... &)
+//   }
+  
+//   return (
+//     <div className='App'>
+//       <Profile func={pull_data} />
+//     </div>
+//   );
+// }
+
+// export default App;
