@@ -11,7 +11,7 @@ export default function Content()
         <div className="card mb-5 mb-lg-0">
           <div className="card-body">
             <h5 className="card-title text-muted text-uppercase text-center">Free</h5>
-            <h6 className="card-price text-center">$0<span className="period">/month</span></h6>
+            <h6 className="card-price text-center">₹0<span className="period">/month</span></h6>
             {/* <hr> */}
             <ul className="fa-ul">
               <li><span className="fa-li"><i className="fas fa-check"></i></span>Single User</li>
@@ -39,7 +39,7 @@ export default function Content()
         <div className="card mb-5 mb-lg-0">
           <div className="card-body">
             <h5 className="card-title text-muted text-uppercase text-center">Plus</h5>
-            <h6 className="card-price text-center">$9<span className="period">/month</span></h6>
+            <h6 className="card-price text-center">₹249<span className="period">/month</span></h6>
             {/* <hr> */}
             <ul className="fa-ul">
               <li><span className="fa-li"><i className="fas fa-check"></i></span><strong>5 Users</strong></li>
@@ -63,7 +63,7 @@ export default function Content()
         <div className="card">
           <div className="card-body">
             <h5 className="card-title text-muted text-uppercase text-center">Pro</h5>
-            <h6 className="card-price text-center">$49<span className="period">/month</span></h6>
+            <h6 className="card-price text-center">₹499<span className="period">/month</span></h6>
             {/* <hr> */}
             <ul className="fa-ul">
               <li><span className="fa-li"><i className="fas fa-check"></i></span><strong>Unlimited Users</strong>
